@@ -1,4 +1,4 @@
-package org.example;
+package Assignment_programs;
 
     public class DayName {
 
